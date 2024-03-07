@@ -1,7 +1,7 @@
 ---
 name: SEDS @ UW Seattle
 tools: [Avionics, Rocketry, Embedded Systems, CAD]
-image: https://www.sketchappsources.com/resources/source-image/coo-app-concept-subgaurav.jpg
+image: ./seds.png
 description: Students for the Exploration and Development of Space at UW Seattle
 ---
 
