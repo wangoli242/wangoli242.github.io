@@ -7,8 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hey there, I'm **{{ site.author.name }}** :wave:,<br>
+I'm a computer scientist, researcher, and musician who is passionate about making the world a more inclusive place. I'm driven to create accessible technologies that support people with disabilities. I also love embedded systems, physical computing, and music theory.
 
 <!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
